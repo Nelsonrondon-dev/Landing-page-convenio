@@ -67,9 +67,9 @@
 
 
 
-# Website
+# Landing Page
 
-Landing Page, responsive developed for the company EADIC, form with API integration Vtiger CRM and ActiveCampaign
+Landing Page for product, responsive developed for the company EADIC, form with API integration Vtiger CRM and ActiveCampaign
 
 
 
