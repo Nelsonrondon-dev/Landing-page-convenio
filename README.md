@@ -75,7 +75,7 @@ Landing Page, responsive developed for the company EADIC, form with API integrat
 
 ## Landing Web
 
-[https://www.eadic.info/mbimci/](https://www.eadic.info/convenios-sib/)
+[https://www.eadic.info/convenios-sib/](https://www.eadic.info/convenios-sib/)
 
 
 ## Tech Used
