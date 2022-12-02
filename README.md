@@ -90,7 +90,7 @@ Landing Page for product, responsive developed for the company EADIC, form with 
 
 ## Screenshots Project
 
-![Landing](https://stupefied-kepler.143-198-236-91.plesk.page/img/landing/landing-convenio-.png)
+![Landing](https://nelson-dev.tech/img/landing/landing-convenio-.png)
 
 
 
